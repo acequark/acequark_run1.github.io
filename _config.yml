@@ -7,4 +7,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: jekyll-theme-example
+theme: jekyll-theme-minimal
