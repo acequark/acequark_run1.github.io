@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'jekyll-theme-minima'
+gem 'jekyll-theme-example'
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
