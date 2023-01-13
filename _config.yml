@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+markdown: kramdown
+theme: minima
 title: Liza Rozenberg's Personal Website
 description: Hi! I am a high energy theory PhD student.
