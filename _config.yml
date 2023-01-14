@@ -8,4 +8,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: acequark/ps-website
+remote_theme: ps-website
