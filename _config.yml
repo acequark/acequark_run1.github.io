@@ -7,4 +7,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-remote_theme: acequark/al-folio
+remote_theme: acequark/academic-theme
