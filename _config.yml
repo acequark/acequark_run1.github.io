@@ -8,4 +8,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: acequark/academic-theme
+remote_theme: alshedivat/al-folio
